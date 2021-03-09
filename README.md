@@ -4,6 +4,9 @@ A news Application
 
 
 
+![IMG_20210309_205800](https://user-images.githubusercontent.com/61085272/110530766-1e74c000-811b-11eb-9b9c-4c844067aa69.jpg)
+![IMG_20210309_205742](https://user-images.githubusercontent.com/61085272/110530798-25033780-811b-11eb-8764-215f992ca14b.jpg)
+![IMG_20210309_205722](https://user-images.githubusercontent.com/61085272/110530835-2af91880-811b-11eb-97cb-6a2886b7db68.jpg)
 
 
 
