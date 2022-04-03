@@ -1,5 +1,5 @@
 # EiffelNews
-A news Application built with offline-First Architecture
+A news Application built with offline-First Architecture. The application fetches new from various news sources and stores in the android database. The android database serves as a single source of truth which means it provides the whole app with data and prevents conflicts in data. The application always displays data from the database, which prevents blank screen incase there is no internet connection. Another Importance of offline caching is that it prevents excessive battery drainage since making too much network connection kills battery quickly.
 
 
 
